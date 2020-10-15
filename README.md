@@ -3,7 +3,7 @@
 Here you will find anything I deem worthy to be posted on the internet when it comes to my programming habits.
 
 #### Projects
-- [🔗 Link Collage](https://github.com/Mjtlittle/Link-Collage) - collection of cool (CS related) interactive and educational 'web toys'
+- [🔗 Link Collage](https://github.com/Mjtlittle/Link-Collage) - collection of links to cool (CS related) interactive and educational 'web toys'
 - [🕹 Tartus Game](https://github.com/Mjtlittle/Tartus-Game) - recreation of Tetris in Python/Pygame
 - [♟ Chess Interface](https://mjtlittle.github.io/react-chess/) - chess game interface made with React
 - [📑 Portfolio](https://github.com/Mjtlittle/portfolio) - source code for my website
