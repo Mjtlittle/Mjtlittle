@@ -2,6 +2,10 @@
 
 Here you will find anything I deem worthy to be posted on the internet when it comes to my programming habits.
 
+#### Collaborated
+
+- [🏕 Trace Camp Winter 2020](https://github.com/jlarmstrongiv/tracecamp-winter-2020) - curriculum from teaching a weeklong React coding bootcamp
+
 #### Projects
 
 - [♟ Chess Interface](https://mjtlittle.github.io/react-chess/) - chess game interface made with React
