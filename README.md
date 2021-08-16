@@ -13,8 +13,6 @@ Here you will find anything I deem worthy to be posted on the internet when it c
 - [♟ Chess Interface](https://mjtlittle.github.io/react-chess/) - chess game interface made with React
 - [🕹 Tartus Game](https://github.com/Mjtlittle/Tartus-Game) - recreation of Tetris in Python/Pygame
 - [⚒ Teardown Tool Menu](https://github.com/Mjtlittle/teardown-tool-menu) - mod for the game Teardown with over 50,000 downloads
-- [🔗 Link Collage](https://github.com/Mjtlittle/Link-Collage) - collection of links to cool (CS related) interactive and educational 'web toys'
-- [📑 Portfolio](https://github.com/Mjtlittle/portfolio) - source code for my website
 - [✏ Sketches](https://mjtlittle.github.io/Sketches/) - collection of experiemental and artistic p5 sketches
 - [🎚 Rust 2048](https://github.com/Mjtlittle/Rust-2048) - effecient implementation of 2048 in rust
 - [🎹 The Keyboard Keyboard](https://mjtlittle.github.io/Keyboard-Keyboard/) - maps all alpha-numeric keys to music notes
