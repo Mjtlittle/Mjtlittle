@@ -14,7 +14,7 @@ Here you will find anything I deem worthy to be posted on the internet when it c
 - [♟ Chess Interface](https://mjtlittle.github.io/react-chess/) - chess game interface made with React
 - [🕹 Tartus Game](https://github.com/Mjtlittle/Tartus-Game) - recreation of Tetris in Python/Pygame
 - [⚒ Teardown Tool Menu](https://github.com/Mjtlittle/teardown-tool-menu) - mod for the game Teardown with over 50,000 downloads
-- [🎚 Rust 2048](https://github.com/Mjtlittle/Rust-2048) - effecient implementation of 2048 in rust
+- [🎚 Rust 2048](https://github.com/Mjtlittle/Rust-2048) - effecient library implementation of 2048 in rust
 - [🧩 Syllogism Checker](https://mjtlittle.github.io/Syllogism-Checker/) - collection of experiemental and artistic p5 sketches
 - [🎹 The Keyboard Keyboard](https://mjtlittle.github.io/Keyboard-Keyboard/) - maps all alpha-numeric keys to music notes
 - [📦 PyDatapack](https://github.com/Mjtlittle/PyDatapack) - Python library for generating Minecraft datapacks *(not updated or finished)*
