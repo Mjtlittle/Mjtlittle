@@ -15,7 +15,7 @@ Here you will find anything I deem worthy to be posted on the internet when it c
 - [🕹 Tartus Game](https://github.com/Mjtlittle/Tartus-Game) - recreation of Tetris in Python/Pygame
 - [⚒ Teardown Tool Menu](https://github.com/Mjtlittle/teardown-tool-menu) - mod for the game Teardown with over 50,000 downloads
 - [🎚 Rust 2048](https://github.com/Mjtlittle/Rust-2048) - effecient library implementation of 2048 in rust
-- [🧩 Syllogism Checker](https://mjtlittle.github.io/Syllogism-Checker/) - collection of experiemental and artistic p5 sketches
+- [🧩 Syllogism Checker](https://mjtlittle.github.io/Syllogism-Checker/) - checks the validity of syllogistic statements, made to aid in philosophy class
 - [🎹 The Keyboard Keyboard](https://mjtlittle.github.io/Keyboard-Keyboard/) - maps all alpha-numeric keys to music notes
 - [📦 PyDatapack](https://github.com/Mjtlittle/PyDatapack) - Python library for generating Minecraft datapacks *(not updated or finished)*
 - [🎁 AoC 2020](https://github.com/Mjtlittle/Advent-of-Code-2020) - my solutions to Advent of Code 2020 in Node.js *(in-progress)*
