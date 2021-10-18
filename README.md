@@ -9,7 +9,12 @@ Here you will find anything I deem worthy to be posted on the internet when it c
 - [🌲 Call of the Wild](https://github.com/Mjtlittle/Call-of-the-Wild) - 24-hour hackathon-made route-randomizing walking app, made with react-native
 - [📌 Trace Camp Website](https://github.com/bekkblando/tracecamp) - Gatsby/Tailwind website for Trace Camp coding bootcamp
 
-#### Projects
+#### Work
+
+- [✅ Testcafe Jira XRAY Reporter](https://github.com/Mjtlittle/testcafe-reporter-atc-spec) - plugin for Testcafe to send results to Jira XRAY as execution issues
+- [🧹 Angular Linting Plugin](https://github.com/Mjtlittle/eslint-plugin-clean-testing) - plugin for eslint that requires certain elements to have ids on them
+
+#### Personal Projects
 
 - [♟ Chess Interface](https://mjtlittle.github.io/react-chess/) - chess game interface made with React
 - [🕹 Tartus Game](https://github.com/Mjtlittle/Tartus-Game) - recreation of Tetris in Python/Pygame
