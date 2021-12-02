@@ -20,5 +20,4 @@ Here you will find anything I deem worthy to be posted on the internet when it c
 - [🧩 Syllogism Checker](https://mjtlittle.github.io/Syllogism-Checker/) - checks the validity of syllogistic statements, made to aid in philosophy class
 - [🎹 The Keyboard Keyboard](https://mjtlittle.github.io/Keyboard-Keyboard/) - maps all alpha-numeric keys to music notes
 - [📦 PyDatapack](https://github.com/Mjtlittle/PyDatapack) - Python library for generating Minecraft datapacks *(not updated or finished)*
-- [🎁 AoC 2020](https://github.com/Mjtlittle/Advent-of-Code-2020) - my solutions to Advent of Code 2020 in Node.js *(in-progress)*
-- [🎄 AoC 2019](https://github.com/Mjtlittle/Advent-of-Code-2019) - my solutions to Advent of Code 2019 in Rust *(~45% completed)*
+- [🎄 Advent of Code](https://github.com/Mjtlittle/Advent-of-Code-2020) - my solutions to the Advent of Code challenges
