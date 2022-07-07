@@ -1,6 +1,6 @@
-### Welcome to My Profile 🐢
+### Welcome to My Profile 🦎
 
-Here you will find anything I deem worthy to be posted on the internet when it comes to my programming habits.
+Here you will find anything I deem worthy to be posted on the internet when it comes to my programming tendancies.
 
 #### Collaborated
 
